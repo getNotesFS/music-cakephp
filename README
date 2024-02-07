@@ -1,4 +1,4 @@
-## HOW IT'S WORK
+## **HOW IT'S WORK**
 
 ### 1) Copy cmsmiw content to your Xamp or whatever php server...
 
@@ -12,5 +12,3 @@
 'password' => 'mysql',
 'database' => 'miw-cms',
 ````
-
-
